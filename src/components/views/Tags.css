@@ -1,0 +1,15 @@
+.tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 400px;
+}
+
+.tag {
+  /* display */
+  background: lightgrey;
+  border-radius: 10px;
+  text-align: center;
+  padding: 1rem;
+  margin: auto 1rem; 
+}

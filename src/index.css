@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: -apple-system, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans',
+    sans-serif;
+}
+
+code {
+  font-family: source-code-pro, 'Courier New',
+    monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
